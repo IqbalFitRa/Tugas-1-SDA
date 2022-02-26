@@ -8,6 +8,7 @@ class Array
         System.out.println("        ---TUGAS 1---         ");
         System.out.println("        --- ARRAY ---         ");
         System.out.println("------------------------------");
+        System.out.println(" ");
 
 
         System.out.println(" ");
